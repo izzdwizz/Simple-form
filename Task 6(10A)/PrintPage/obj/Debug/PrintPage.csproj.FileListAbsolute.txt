@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PrintPage\PrintPage\bin\Debug\PrintPage.exe.config
+C:\Users\user\source\repos\PrintPage\PrintPage\bin\Debug\PrintPage.exe
+C:\Users\user\source\repos\PrintPage\PrintPage\bin\Debug\PrintPage.pdb
+C:\Users\user\source\repos\PrintPage\PrintPage\obj\Debug\PrintPage.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PrintPage\PrintPage\obj\Debug\PrintPage.Form1.resources
+C:\Users\user\source\repos\PrintPage\PrintPage\obj\Debug\PrintPage.Properties.Resources.resources
+C:\Users\user\source\repos\PrintPage\PrintPage\obj\Debug\PrintPage.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PrintPage\PrintPage\obj\Debug\PrintPage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PrintPage\PrintPage\obj\Debug\PrintPage.exe
+C:\Users\user\source\repos\PrintPage\PrintPage\obj\Debug\PrintPage.pdb
